@@ -1,5 +1,9 @@
 # hi, i'm rumo 👋
 
-信息安全方向学习者  
+网络安全从业者 
 
 真诚要留给同样真诚的人
+
+Cybersecurity practitioner
+
+Sincerity should be reserved for those who are sincere.
