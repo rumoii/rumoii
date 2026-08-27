@@ -1,9 +1,9 @@
-# hi, i'm rumo 👋
+# hi, i'm rumo
 
-网络安全从业者 
+全栈开发工程师，正在转向 AI 应用开发。
 
-真诚要留给同样真诚的人
+真诚要留给同样真诚的人。
 
-Cybersecurity practitioner
+Full-stack developer transitioning into AI application development.
 
-Sincerity should be reserved for those who are sincere.
+Sincerity should be reserved for those who are equally sincere.
